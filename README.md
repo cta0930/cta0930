@@ -22,4 +22,4 @@ Feel free to explore my repositories as I migrate work to GitHub, connect with m
 
 Thanks for stopping by—happy coding!
 
-![tryhackme stats](https://raw.githubusercontent.com/cta0930/cta0930/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/.mav3r1ck/.mav3r1ck/master/assets/thm_propic.png)
