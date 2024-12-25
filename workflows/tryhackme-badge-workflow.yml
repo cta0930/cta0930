@@ -1,17 +1,22 @@
-name: TryHackMe Update Badge
+name: Update TryHackMe Badge
 
 on:
   schedule:
-    # Make it run every 24 hour
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows manual triggering
+
 jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+  update-badge:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: ./
-        with:
-          username: ".mav3r1ck"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch TryHackMe Badge
+      uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
+      with:
+        image_path: './resources/tryhackme-badge.png'
+        username: '.mav3r1ck'
+        user_id: '2104607'
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
