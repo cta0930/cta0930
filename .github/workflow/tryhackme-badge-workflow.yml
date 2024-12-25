@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: cta0930/tryhackme-badge-workflow@main
+      - uses: cta0930/cta0930/workflow/tryhackme-badge-workflow@main
         with:
-          username: ".mav3r1ck"
+          username: "cta0930"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
