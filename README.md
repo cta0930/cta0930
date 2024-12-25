@@ -33,10 +33,7 @@ Hi, I’m C.T., an aspiring **penetration tester** and cybersecurity enthusiast.
 ---
 
 ### 📈 **TryHackMe Progress**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cta0930/cta0930/master/resources/thm_propic.png" alt="TryHackMe Stats" width="60%" />
-</p>
-
+[![CT's tryhackme stats](https://raw.githubusercontent.com/cta0930/cta0930/master/resources/thm_propic.png)][tryhackme]
 ---
 
 ## 📫 **Let’s Connect**
