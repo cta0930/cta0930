@@ -3,6 +3,7 @@
 <img width="60%" align="center" src="https://cdn.pixabay.com/photo/2020/05/25/08/54/banner-5217683_1280.jpg" />
 ## :name_badge: I'm a Cyber Security student and aspiring pen tester!
 
+![tryhackme stats](https://raw.githubusercontent.com/cta0930/cta0930/master/resources/thm_propic.png)
 
 🔍 **What you'll find here:**
 - Cybersecurity tools and resources [current/future projects will be included soon]
