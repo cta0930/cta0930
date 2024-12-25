@@ -1,6 +1,7 @@
-# Hi there! 👋 Welcome to my GitHub!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=Thanks+for+stopping+in!+I'm+C.T.+-+aka+.mav3r1ck)](https://git.io/typing-svg)
 
-I'm C.T., a cybersecurity student and aspiring penetration tester.
+## :name_badge: I'm a Cyber Security student and aspiring pen tester!
+<img width="30%" align="right" src="https://tenor.com/search/linux-gifs" />
 
 🔍 **What you'll find here:**
 - Cybersecurity tools and resources [current/future projects will be included soon]
@@ -20,6 +21,4 @@ Feel free to explore my repositories as I migrate work to GitHub, connect with m
 - **Website:** [ctccybersecurity.com](https://ctccybersecurity.com) -- Built as a final project for a web development course
 - **Portfolio** [ctccybersecurity.com/portfolio](https://ctccybersecurity.com/portfolio) -- Also built as part of a college course
 
-Thanks for stopping by—happy coding!
-
-![tryhackme stats](https://raw.githubusercontent.com/.mav3r1ck/.mav3r1ck/master/assets/thm_propic.png)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2104607" style='border:none;'></iframe>
