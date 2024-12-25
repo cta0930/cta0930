@@ -1,4 +1,4 @@
-            - name: TryHackMe Badge Action Workflow
+            name: TryHackMe Badge Action Workflow
   # You may pin to the exact commit or the version.
   # uses: DhanushNehru/tryhackme-badge-action-workflow@812809de6461b3e3e37553c67674c7f94a0f312b
   uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
