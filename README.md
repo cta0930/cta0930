@@ -34,8 +34,8 @@ Hi, I’m C.T., an aspiring **penetration tester**, ethical hacker, and cybersec
 
 ## 📫 **Let’s Connect**
 - :link: **All My Links**: [Click2Explore](https://linktr.ee/cta0930)
-- 🌐 **Website**: [CTC Cybersecurity](https://ctccybersecurity.com)
-- 💼 **Portfolio**: [Portfolio Projects](https://ctccybersecurity.com/portfolio)
+- 🌐 **Website**: [CTC Cybersecurity Proj](https://ctccybersecurity.com)
+- 💼 **Portfolio**: [A Very Basic Portfolio Proj](https://ctccybersecurity.com/portfolio)
 ---
 
 <p align="left">
