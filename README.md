@@ -29,7 +29,7 @@ Hi, I’m C.T., an aspiring **penetration tester**, ethical hacker, and cybersec
 
 ---
 
-# Connect with Me on LinkedIn
+## Connect with Me on LinkedIn
 
 [![Cody Tilley](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ctilley0124)
 
