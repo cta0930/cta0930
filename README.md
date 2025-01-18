@@ -17,6 +17,7 @@ Hi, I’m C.T., an aspiring **penetration tester**, ethical hacker, and cybersec
 - **Penetration Testing Practice**: Scripts, labs, and case studies related to ethical hacking.
 - **Web Development**: Contributions tied to launching my cybersecurity business and personal blog.
 - **Open Source Contributions**: Educational resources and tools to enhance digital security.
+
 ---
 
 ## 🌟 **My Focus Areas**
@@ -25,6 +26,24 @@ Hi, I’m C.T., an aspiring **penetration tester**, ethical hacker, and cybersec
 - **Network Security**: Fortifying defenses for secure communication and data integrity.
 - **Empowering Through Tools**: Creating accessible solutions for everyone.
 - **Enhancing Digital Privacy**: How to protect information online.
+
+---
+
+<!-- LinkedIn Badge -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" 
+     data-locale="en_US" 
+     data-size="large" 
+     data-theme="dark" 
+     data-type="HORIZONTAL" 
+     data-vanity="ctilley0124" 
+     data-version="v1">
+  <a class="badge-base__link LI-simple-link" 
+     href="https://www.linkedin.com/in/ctilley0124?trk=profile-badge">Cody Tilley</a>
+</div>
+# Connect with Me on LinkedIn
+
+[![Cody Tilley](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ctilley0124)
 
 ---
 
