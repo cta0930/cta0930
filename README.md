@@ -8,7 +8,7 @@
 
 # 🛡️ Welcome to my GitHub!
 
-Hi, I’m C.T., an aspiring **penetration tester**, ethical hacker, and cybersecurity student. After 12 years in the military, I decided to make the switch to cybersecurity. Currently, I'm finishing a B.S. in Cybersecurity, learning new skills in pen testing, and ethical hacking.
+Hi, I’m C.T., an aspiring **penetration tester**, ethical hacker, and cybersecurity student. I'm finishing a B.S. in Cybersecurity, learning new skills in pen testing, and ethical hacking.
 
 ---
 
