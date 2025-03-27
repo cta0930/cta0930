@@ -8,24 +8,23 @@
 
 # 🛡️ Welcome to my GitHub!
 
-Hi, I’m C.T., an aspiring **penetration tester**, ethical hacker, and cybersecurity student. I'm finishing a B.S. in Cybersecurity, learning new skills in pen testing, and ethical hacking.
+Hi, I’m mav, a aspiring **pen tester** and cybersecurity pro. I love learning new techniques in ethical hacking!
 
 ---
 
 ## 🔍 **What You'll Soon Find Here**
-- **Cybersecurity Projects**: Tools and techniques for vulnerability identification and mitigation.
+- **Cybersec Projects**: I'll be growing this space with TTPs for pentesting & vulnerability assessments.
 - **Penetration Testing Practice**: Scripts, labs, and case studies related to ethical hacking.
-- **Web Development**: Contributions tied to launching my cybersecurity business and personal blog.
-- **Open Source Contributions**: Educational resources and tools to enhance digital security.
+- **Web Development**: I'll be deep diving into web dev and building new projects. **Soon I'll self host and get my lap fully revamped**.
+- **Open Source Contributions**: I'll be jumping deeper into open-source projects to showcase skills.
 
 ---
 
 ## 🌟 **My Focus Areas**
 - **Penetration Testing & Ethical Hacking**: Discovering and exploiting vulnerabilities to strengthen systems.
-- **Cyber Threat Intelligence**: Monitoring and analyzing emerging threats in real time.
+- **Cyber Threat Intel**: Monitoring and analyzing emerging threats.
 - **Network Security**: Fortifying defenses for secure communication and data integrity.
-- **Empowering Through Tools**: Creating accessible solutions for everyone.
-- **Enhancing Digital Privacy**: How to protect information online.
+- **Privacy Online**: How to protect information online.
 
 ---
 
