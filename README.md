@@ -8,7 +8,7 @@
 
 # 🛡️ Welcome to my GitHub!
 
-Hi, I’m C.T., an aspiring **pen tester** and cybersecurity pro. I love learning new techniques in ethical hacking and coding for fun!
+Hi, I’m C.T., an aspiring **pen tester** and cybersecurity professional. I love learning new techniques in ethical hacking and coding for fun!
 
 ---
 
