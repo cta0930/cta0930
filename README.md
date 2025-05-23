@@ -8,14 +8,14 @@
 
 # 🛡️ Welcome to my GitHub!
 
-Hi, I’m C.T., an aspiring **pen tester** and cybersecurity professional. I love learning new techniques in ethical hacking and coding for fun!
+Hi, I’m CJ, a junior cybersecurity professional and penetration tester. I love learning new techniques in ethical hacking and coding for fun!
 
 ---
 
-## 🔍 **What You'll Soon Find Here**
-- **Cybersec Projects**: I'll be growing this space with TTPs for pentesting & vulnerability assessments.
+## 🔍 **What You,ll Find Here**
+- **Personal Projects**: I'll be growing this space with TTPs for pentesting & vulnerability assessments.
 - **Penetration Testing Practice**: Scripts, labs, and case studies related to ethical hacking.
-- **Web Development**: I'll be deep diving into web dev and building new projects. **Soon I'll self host and get my lap fully revamped**.
+- **Web Development**: I'll be deep diving into web dev and building new projects.
 - **Open Source Contributions**: I'll be jumping deeper into open-source projects to showcase skills.
 
 ---
