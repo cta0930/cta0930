@@ -6,13 +6,13 @@
 
 ---
 
-# 🛡️ Welcome to my GitHub!
+# Welcome to my GitHub!
 
-Hi, I’m CJ, I'm a cybersecurity professional and I'm working on becoming a penetration tester.
+I'm a IT and cybersecurity professional working on becoming a penetration tester.
 
 ---
 
-## 🔍 **What You,ll Find Here**
+## **What You,ll Find Here**
 - **Personal Projects**: I'll be growing this space with TTPs for pentesting & vulnerability assessments.
 - **Penetration Testing Exploration**: Scripts, labs, and case studies related to ethical hacking.
 - **Web Development**: I'll be deep diving into web dev and building new projects.
@@ -20,7 +20,7 @@ Hi, I’m CJ, I'm a cybersecurity professional and I'm working on becoming a pen
 
 ---
 
-## 🌟 **My Focus Areas**
+## **My Focus Areas**
 - **Penetration Testing & Ethical Hacking**: Discovering and exploiting vulnerabilities to strengthen systems.
 - **Cyber Threat Intel**: Monitoring and analyzing emerging threats.
 - **Network Security**: Fortifying defenses for secure communication and data integrity.
@@ -38,9 +38,9 @@ Hi, I’m CJ, I'm a cybersecurity professional and I'm working on becoming a pen
 ![TryHackMe Badge](https://github.com/cta0930/cta0930/blob/main/assets/tryhackme-badge.png)
 ---
 
-## 📫 **Let’s Connect**
+## **Let’s Connect**
 - :link: **All My Links**: [Click2Explore](https://linktr.ee/cta0930)
-- 🌐 **Walkthroughs**: [Check out my walkthroughs](https://cta0930.github.io)
+- **Walkthroughs**: [Check out my walkthroughs](https://cta0930.github.io)
 ---
 
 <p align="left">
