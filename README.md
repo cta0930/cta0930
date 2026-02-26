@@ -8,13 +8,13 @@
 
 # 🛡️ Welcome to my GitHub!
 
-Hi, I’m CJ, a junior cybersecurity professional and penetration tester. I love learning new techniques in ethical hacking and coding for fun!
+Hi, I’m CJ, I'm a cybersecurity professional and I'm working on becoming a penetration tester.
 
 ---
 
 ## 🔍 **What You,ll Find Here**
 - **Personal Projects**: I'll be growing this space with TTPs for pentesting & vulnerability assessments.
-- **Penetration Testing Practice**: Scripts, labs, and case studies related to ethical hacking.
+- **Penetration Testing Exploration**: Scripts, labs, and case studies related to ethical hacking.
 - **Web Development**: I'll be deep diving into web dev and building new projects.
 - **Open Source Contributions**: I'll be jumping deeper into open-source projects to showcase skills.
 
@@ -40,8 +40,7 @@ Hi, I’m CJ, a junior cybersecurity professional and penetration tester. I love
 
 ## 📫 **Let’s Connect**
 - :link: **All My Links**: [Click2Explore](https://linktr.ee/cta0930)
-- 🌐 **Website**: [CTC Cybersecurity Proj](https://ctccybersecurity.com)
-- 💼 **Portfolio**: [A Very Basic Portfolio Proj](https://ctccybersecurity.com/portfolio)
+- 🌐 **Walkthroughs**: [Check out my walkthroughs](https://cta0930.github.io)
 ---
 
 <p align="left">
