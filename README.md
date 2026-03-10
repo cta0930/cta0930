@@ -1,16 +1,20 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&lines=I'm+CJ;Aspiring+Pen+Tester;I+Love+Ethical+Hacking;And+Cybersecurity" alt="Typing SVG">
-  </a>
-</div>
+# Cody J. Tilley
+
+Cybersecurity professional focused on **network security, detection engineering, and offensive security research**.
+
+I operate a segmented **cybersecurity lab environment** used for:
+
+- penetration testing practice
+- intrusion detection research
+- network traffic analysis
+- threat intelligence integration
+- SIEM experimentation
+
+My work focuses on understanding how attacks occur and building **defensive visibility to detect them**.
 
 ---
 
-# Welcome to my GitHub!
-
-I'm an IT and cybersecurity professional.
-
-## Certifications
+# Certifications
 
 ![CompTIA Sec+ CE](https://github.com/cta0930/cta0930/blob/main/assets/comptia-security-ce-certification.png)
 ![GIAC GFACT](https://github.com/cta0930/cta0930/blob/main/assets/giac-foundational-cybersecurity-technologies-gfact.png)
@@ -18,39 +22,106 @@ I'm an IT and cybersecurity professional.
 
 ---
 
-## **What You,ll Find Here**
-- **Personal Projects**: I'll be growing this space with TTPs for pentesting & vulnerability assessments.
-- **Penetration Testing Exploration**: Scripts, labs, and case studies related to ethical hacking.
-- **Web Development**: I'll be deep diving into web dev and building new projects.
-- **Open Source Contributions**: I'll be jumping deeper into open-source projects to showcase skills.
+# Security Lab Environment
+
+My home lab simulates a **segmented enterprise network architecture** designed for security testing and monitoring.
+
+### Firewall & Network Segmentation
+- **OPNsense Firewall** (Protectli VP2420)
+- VLAN segmentation for isolated environments
+- WireGuard VPN for secure remote access
+- Netgear managed switch
+
+### Detection & Monitoring
+- **Suricata IDS/IPS**
+- ZenArmor
+- DShield honeypot sensor
+
+### SIEM & Threat Intelligence
+- **Wazuh SIEM**
+- TheHive + Cortex
+- MISP threat intelligence
+- OpenCTI intelligence platform
+
+### Infrastructure
+- Ubuntu server running Docker security stack
+- Intel NUC virtualization host
+- Raspberry Pi sensors and honeypots
+
+This environment allows controlled testing of **network attacks, detection engineering, and threat analysis workflows**.
 
 ---
 
-## **My Focus Areas**
-- **Penetration Testing & Ethical Hacking**: Discovering and exploiting vulnerabilities to strengthen systems.
-- **Cyber Threat Intel**: Monitoring and analyzing emerging threats.
-- **Network Security**: Fortifying defenses for secure communication and data integrity.
-- **Privacy Online**: How to protect information online.
+# Featured Projects
+
+## Network Security Lab
+
+A segmented cybersecurity lab environment built with **OPNsense firewall and VLAN isolation**.
+
+Focus areas:
+
+- intrusion detection tuning
+- network traffic inspection
+- SIEM event correlation
+- threat intelligence ingestion
+- firewall rule analysis
 
 ---
 
-## Connect with Me on LinkedIn
+## Security Research & Lab Writeups
 
+Documenting security research and lab exercises including:
+
+- penetration testing labs
+- network security experiments
+- vulnerability analysis
+- detection engineering techniques
+
+Research notes and walkthroughs are published at:
+
+[Walkthroughs](https://cta0930.github.io)
+
+---
+
+# Research Interests
+
+Current areas of focus include:
+
+- intrusion detection tuning
+- SIEM alert correlation
+- TLS traffic analysis
+- threat intelligence integration
+- offensive security lab simulations
+
+---
+
+# Professional Links
+
+### LinkedIn  
 [![Cody Tilley](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ctilley0124)
+
+### Security Blog / Walkthroughs  
+[Walkthroughs](https://cta0930.github.io)
+
+All Links  
+[Linktr](https://linktr.ee/cta0930)
+
+---
+
+# GitHub Focus
+
+This GitHub will continue to grow with:
+
+- security research
+- lab infrastructure projects
+- penetration testing tooling
+- detection engineering experiments
+- cybersecurity walkthroughs
 
 ---
 
 ### 📈 **TryHackMe Progress**
 ![TryHackMe Badge](https://github.com/cta0930/cta0930/blob/main/assets/tryhackme-badge.png)
+
 ---
 
-## **Let’s Connect**
-- :link: **All My Links**: [Click2Explore](https://linktr.ee/cta0930)
-- **Walkthroughs**: [Check out my walkthroughs](https://cta0930.github.io)
----
-
-<p align="left">
-  <a href="https://buymeacoffee.com/cta0930"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee at buymeacoffee.com" />
-  </a>
-</p>
