@@ -8,7 +8,11 @@
 
 # Welcome to my GitHub!
 
-I'm a IT and cybersecurity professional working on becoming a penetration tester.
+I'm an IT and cybersecurity professional.
+
+## Certifications
+
+![GIAC Security Essenstials](https://github.com/cta0930/cta0930/blob/main/assets/giac-security-essentials-certification-gsec.png)
 
 ---
 
