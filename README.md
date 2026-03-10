@@ -12,7 +12,7 @@ I'm an IT and cybersecurity professional.
 
 ## Certifications
 
-![CompTIA Sec+ CE](https://github.com/cta0930/cta0930/blob/main/assets/Security+-png.png)
+![CompTIA Sec+ CE](https://github.com/cta0930/cta0930/blob/main/assets/comptia-security-ce-certification.png)
 ![GIAC Security Essenstials](https://github.com/cta0930/cta0930/blob/main/assets/giac-security-essentials-certification-gsec.png)
 
 ---
