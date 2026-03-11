@@ -120,8 +120,8 @@ This GitHub will continue to grow with:
 
 ---
 
-### 📈 **TryHackMe Progress**
-![TryHackMe Badge](https://github.com/cta0930/cta0930/blob/main/assets/tryhackme-badge.png)
-
+### **TryHackMe & HackTheBox Progress**
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/spectr1.png)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019cda26-69e8-73b8-88c2-07d88618efe7)
 ---
 
