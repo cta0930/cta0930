@@ -120,8 +120,11 @@ This GitHub will continue to grow with:
 
 ---
 
-### **TryHackMe & HackTheBox Progress**
+### **TryHackMe Progress**
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/spectr1.png)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019cda26-69e8-73b8-88c2-07d88618efe7)
+---
+### ***Join me on CTFs and labs***
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/spectr1)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?logo=hackthebox&logoColor=black&style=for-the-badge)](https://profile.hackthebox.com/profile/019cda26-69e8-73b8-88c2-07d88618efe7)
 ---
 
