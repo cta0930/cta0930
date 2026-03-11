@@ -2,8 +2,14 @@
 
 Cybersecurity professional focused on **network security, detection engineering, and offensive security research**.
 
-I operate a segmented **cybersecurity lab environment** used for:
+## Certifications
 
+![CompTIA Sec+ CE](https://github.com/cta0930/cta0930/blob/main/assets/comptia-security-ce-certification.png)
+![GIAC GFACT](https://github.com/cta0930/cta0930/blob/main/assets/giac-foundational-cybersecurity-technologies-gfact.png)
+![GIAC Security Essenstials](https://github.com/cta0930/cta0930/blob/main/assets/giac-security-essentials-certification-gsec.png)
+
+---
+I operate a segmented **cybersecurity lab environment** used for:
 - penetration testing practice
 - intrusion detection research
 - network traffic analysis
@@ -12,66 +18,126 @@ I operate a segmented **cybersecurity lab environment** used for:
 
 My work focuses on understanding how attacks occur and building **defensive visibility to detect them**.
 
+## Home Lab Topology
+
+The lab is designed as a segmented enterprise-style network architecture centered around an OPNsense firewall, managed switching, dedicated infrastructure segments, and containerized security tooling.
+
+```mermaid
+graph TD
+
+Internet[Internet] --> OPNsense[OPNsense Firewall<br/>Protectli VP2420]
+
+OPNsense --> SWIF[igc1 - Netgear Switch Uplink]
+OPNsense --> NUCIF[igc2 - Intel NUC Segment]
+OPNsense --> DSHIF[igc3 - DShield Segment]
+OPNsense --> DNSIF[DNS Privacy Segment]
+
+OPNsense --> WG[WireGuard VPN<br/>Remote Access]
+
+SWIF --> Switch[Netgear Managed Switch]
+
+Switch --> VLAN10[VLAN10 - Cyber Lab]
+Switch --> VLAN20[VLAN20 - Remote Work]
+Switch --> VLAN30[VLAN30 - Trusted Wireless]
+Switch --> VLAN40[VLAN40 - Guest / IoT Wireless]
+Switch --> VLAN50[VLAN50 - Printer / Scanner]
+Switch --> VLAN99[VLAN99 - Management]
+
+VLAN30 --> SecureSSID[Trusted SSID]
+
+VLAN40 --> GuestSSID[Guest SSID]
+VLAN40 --> IoTSSID[IoT SSID]
+VLAN40 --> KodiPi[Raspberry Pi<br/>Kodi Media Streaming]
+
+DNSIF --> DNSPrivacy[Raspberry Pi<br/>DNS Privacy Stack]
+
+NUCIF --> SecurityServer[Intel NUC Ubuntu Server<br/>Docker Security Stack]
+
+SecurityServer --> Wazuh[Wazuh SIEM]
+SecurityServer --> TheHive[TheHive]
+SecurityServer --> Cortex[Cortex]
+SecurityServer --> OpenCTI[OpenCTI]
+
+DSHIF --> DShield[Raspberry Pi<br/>DShield Honeypot Sensor]
+
+WG --> RemoteClients[Remote Devices<br/>4 WireGuard Endpoints]
+```
 ---
+## Lab Capabilities
 
-# Certifications
+This environment supports hands-on experimentation with:
+- intrusion detection tuning
+- SIEM alert correlation
+- network traffic inspection
+- adversary simulation
+- threat intelligence enrichment
+- firewall rule analysis
+- DNS privacy infrastructure
+- remote secure access via VPN
 
-![CompTIA Sec+ CE](https://github.com/cta0930/cta0930/blob/main/assets/comptia-security-ce-certification.png)
-![GIAC GFACT](https://github.com/cta0930/cta0930/blob/main/assets/giac-foundational-cybersecurity-technologies-gfact.png)
-![GIAC Security Essenstials](https://github.com/cta0930/cta0930/blob/main/assets/giac-security-essentials-certification-gsec.png)
+The architecture isolates lab, work, wireless, IoT, printer, and management networks while enabling controlled monitoring and telemetry collection.
 
+## Security Stack
+
+### Detection Pipeline
+
+Security telemetry collected within the lab environment flows through the following monitoring and analysis pipeline.
+
+```mermaid
+graph LR
+
+Traffic[Network Traffic] --> Firewall[OPNsense Firewall]
+Firewall --> Suricata[Suricata IDS/IPS]
+
+Suricata --> Wazuh[Wazuh SIEM]
+
+Wazuh --> Alerts[Alert Generation]
+
+Alerts --> TheHive[TheHive Incident Response]
+
+TheHive --> Cortex[Cortex Automated Analysis]
+
+Cortex --> OpenCTI[OpenCTI Threat Intelligence]
+
+OpenCTI --> Investigation[Security Investigation]
+```
 ---
-
-# Security Lab Environment
-
-My home lab simulates a **segmented enterprise network architecture** designed for security testing and monitoring.
-
 ### Firewall & Network Segmentation
-- **OPNsense Firewall** (Protectli VP2420)
-- VLAN segmentation for isolated environments
+- OPNsense Firewall (Protectli VP2420)
+- VLAN segmentation with managed switching
 - WireGuard VPN for secure remote access
-- Netgear managed switch
+- Suricata IDS/IPS
+- ZenArmor traffic analysis
 
-### Detection & Monitoring
-- **Suricata IDS/IPS**
-- ZenArmor
+### Security Monitoring & Incident Response
+- Wazuh SIEM
+- TheHive incident response platform
+- Cortex automated analysis engine
+
+## Infrastrucure
+- Ubuntu server running Docker security stack
+- Intel NUC security host
+- Raspberry Pi sensors and infrastructure services
+- DNS privacy stack for internal resolution hardening
 - DShield honeypot sensor
 
-### SIEM & Threat Intelligence
-- **Wazuh SIEM**
-- TheHive + Cortex
-- MISP threat intelligence
-- OpenCTI intelligence platform
+## Security Research & Projects
 
-### Infrastructure
-- Ubuntu server running Docker security stack
-- Intel NUC virtualization host
-- Raspberry Pi sensors and honeypots
-
-This environment allows controlled testing of **network attacks, detection engineering, and threat analysis workflows**.
-
----
-
-# Featured Projects
-
-## Network Security Lab
+### Network Security Lab
 
 A segmented cybersecurity lab environment built with **OPNsense firewall and VLAN isolation**.
 
-Focus areas:
-
-- intrusion detection tuning
-- network traffic inspection
+Research areas include:
+- IDS rule tuning
+- firewall policy validation
+- network traffic analysis
 - SIEM event correlation
-- threat intelligence ingestion
-- firewall rule analysis
+- detection engineering experimentation
 
 ---
-
-## Security Research & Lab Writeups
+### Security Research & Lab Writeups
 
 Documenting security research and lab exercises including:
-
 - penetration testing labs
 - network security experiments
 - vulnerability analysis
@@ -82,33 +148,15 @@ Research notes and walkthroughs are published at:
 [Walkthroughs](https://cta0930.github.io)
 
 ---
-
-# Research Interests
-
-Current areas of focus include:
-
-- intrusion detection tuning
-- SIEM alert correlation
-- TLS traffic analysis
-- threat intelligence integration
-- offensive security lab simulations
-
----
-
 # Professional Links
 
 ### LinkedIn  
 [![Cody Tilley](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ctilley0124)
-
-### Security Blog / Walkthroughs  
-[Walkthroughs](https://cta0930.github.io)
-
 All Links  
 [Linktr](https://linktr.ee/cta0930)
 
 ---
-
-# GitHub Focus
+## Repository Focus
 
 This GitHub will continue to grow with:
 
@@ -116,10 +164,9 @@ This GitHub will continue to grow with:
 - lab infrastructure projects
 - penetration testing tooling
 - detection engineering experiments
-- cybersecurity walkthroughs
+- security walkthroughs
 
 ---
-
 ### **TryHackMe Progress**
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/spectr1.png)
 ---
