@@ -1,6 +1,6 @@
 # Cody J. Tilley
 
-Cybersecurity professional focused on **network security, detection engineering, and offensive security research**.
+Cybersecurity Analyst focused on threat detection, incident response, and SIEM operations in regulated environments. Building and testing detection pipelines, security tooling, and attack simulations in a home lab environment.
 
 ## Certifications
 
